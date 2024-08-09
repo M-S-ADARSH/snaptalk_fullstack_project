@@ -1,0 +1,57 @@
+.user-dashboard {
+    background-color: #f7f7f7;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.1);
+  }
+  
+  .user-dashboard h1, 
+  .user-dashboard h2 {
+    color: #333;
+  }
+  
+  .user-dashboard h6 {
+    color: #555;
+  }
+  
+  .user-dashboard button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .user-dashboard button:hover {
+    background-color: #0056b3;
+  }
+  
+  .user-dashboard .MuiPaper-root {
+    padding: 20px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+  }
+  
+  .user-dashboard .MuiTypography-root {
+    color: #555;
+  }
+  
+  .user-dashboard .MuiTableCell-root {
+    color: #333;
+  }
+  
+  .user-dashboard .MuiTableHead-root .MuiTableCell-root {
+    font-weight: bold;
+    background-color: #f0f0f0;
+  }
+  
+  .user-dashboard .MuiTableRow-root:nth-of-type(odd) {
+    background-color: #fafafa;
+  }
+  
+  .user-dashboard .MuiTableRow-root:hover {
+    background-color: #f1f1f1;
+  }
+  
